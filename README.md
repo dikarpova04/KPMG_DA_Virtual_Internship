@@ -12,13 +12,13 @@ The primary objectives of this virtual internship include:
 - Providing actionable recommendations based on data analysis to address client business challenges.
 - 
 ### Repository Structure:
-1. `Datasets` - contains datasets provided for the internship project and folder `Data_cleaned` with cleaned data in .csv format, as well as the merged file `data.csv` for data analysis.
+`Datasets` - contains datasets provided for the internship project and folder `Data_cleaned` with cleaned data in .csv format, as well as the merged file `data.csv` for data analysis.
 
-2. `EDA` - contains Exploratory data analysis for each datasets and `EDA_insights.csv` file with my decisions.
+`EDA` - contains Exploratory data analysis for each datasets and `EDA_insights.csv` file with my decisions.
 
 `Certificate_of_Completion` - contains the completion certificate from KPMG AU and Forage.
 
-README.md: This file provides an overview of the internship and repository.
+`README.md` - provides an overview of the internship and repository.
 
 ### Acknowledgments
 I extend my gratitude to KPMG and Forage for providing this virtual internship opportunity and the resources to enhance my data analytics skills. This internship was an invaluable learning experience, allowing me to apply theoretical knowledge to a real-world project.
